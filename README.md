@@ -1,3 +1,3 @@
 # GABRIEL SILVA
 PORTFÓLIO PESSOAL
-INSTALAR AS PASTAS E ENTRAR NO SITE PELO INDEX.
+criar pasta gabriel- silva, css e img adicionar os arquivos nas pastas 
